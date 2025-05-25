@@ -1,0 +1,10 @@
+.primary {
+  background-color: #6750a4;
+  border-color: #ece6f0;
+}
+
+.secondary {
+  background-color: #ece6f0;
+  border-color: #6750a4;
+  color: #000000;
+}
