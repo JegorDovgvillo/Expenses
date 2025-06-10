@@ -1,0 +1,26 @@
+.newCardContainer {
+  display: flex;
+  max-width: 340px;
+  padding: 15px;
+  border: solid 1px #6750a4;
+  border-radius: 8px;
+  min-height: 405px;
+  justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: gray
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.input {
+  border: solid 1px #6750a4;
+  border-radius: 8px;
+  height: 40px;
+  font-size: 16px;
+}

@@ -5,6 +5,7 @@
   padding: 15px;
   border: solid 1px #6750a4;
   border-radius: 8px;
+  min-height: 405px;
 }
 
 .expenseItemHeader {

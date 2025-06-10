@@ -10,7 +10,6 @@ interface IProps {
 
 const HeaderNavigation = ({ link, text }: IProps) => {
   const path = usePathname();
-  console.log(path);
   return (
     <Link
       className={path.startsWith(link) ? styles.active : undefined}
